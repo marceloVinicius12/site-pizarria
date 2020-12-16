@@ -1,0 +1,75 @@
+body {
+    font-size: 20px;
+    margin-left: 0px;
+        margin-right: 80px;
+    }
+    .cabecalho{
+        background: rgba(255, 94, 0, 0.904);
+        margin-left: 80px;
+        margin-right: 80px;
+        display: flex;
+        
+    }
+    .cabecalho p{
+        font-size: 30px;
+        color: white;
+    text-align: right;
+    margin-left: 600px;
+    }
+
+    .menu li{
+        font-size: 20px;
+        list-style: none;
+        display: inline-block;
+        margin: 10 14px;
+        letter-spacing: 1px;
+    }
+    .menu{
+    background: rgb(199, 108, 4);
+    margin-left: 80px;
+    margin-right: 80px;
+display: flex;}
+
+.historia{
+    font-size: 20px;
+    padding :100px;
+    width: 400px;
+    position: absolute;
+    margin-left: 12px;
+    top: 200px;
+}
+
+.missao{
+    margin-left: 100px;
+    display: flex;
+    position: absolute;
+  top: 900px
+}
+.valores{
+    top: -30px;
+    display: flex;
+    margin-left: 600px;
+    position: relative;
+}
+.imagens{
+    top: -40px;
+   position: relative;
+   margin-left: 600px;
+    
+
+}
+.imagens h4{
+
+    font-size: 40px;
+    position: center;
+}
+.missao h3{
+position: absolute;
+top: -26px;
+}
+.valores h3{
+    font-size: 35px;
+}
+h1{
+    margin-left: 90px;
+}
